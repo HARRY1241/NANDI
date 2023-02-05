@@ -1,0 +1,64 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather' , serif;
+    }
+h1 {
+    text-align: left;
+    font-size: 500%;
+    width: 10%;
+    margin: 0 auto;
+    font-family: 'Sacramento' , cursive;
+    display: inline;
+    color: #A7727D;
+}
+
+h2 {
+    font-family: 'Montserrat' , sans-serif;
+   text-align: center;
+}
+.top { background-color: #FFD4D4;
+width: 100%;
+height: 100%;
+padding: 20px;
+color: #5D3891;
+}
+.middle {
+   width: 100%;
+   height: 100%; 
+}
+
+h3{
+    font-size: larger;
+}
+
+div {
+background-color: #FFD4D4;
+}
+.cloud2{
+    position: absolute; 
+    left: 100px;
+    bottom: 800px;
+}
+.cloud1{
+    position: absolute;
+    right: 150px;
+    top: 100px;
+}
+.skills{
+    width: 100%;
+    height: 500px;
+   
+  }
+.paint{
+    width: 10%;
+    float: left;
+    margin-right: 30px;   
+}
+.play {
+    position: absolute;
+    right : 40px;
+    width : 20%;
+    float: right;
+    margin-left: 20px;    
+    }
